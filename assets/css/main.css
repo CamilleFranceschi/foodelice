@@ -18,7 +18,6 @@ body {
 h2{
 	font-size: calc(24px + 2.5vw);
 	font-family: 'CamingoDos-Bold',helvetica;
-	/*padding-top: calc(10px+5vh);*/
 }
 
 h3{
