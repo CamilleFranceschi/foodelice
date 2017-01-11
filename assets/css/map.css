@@ -1,0 +1,17 @@
+#map{
+	width: 600px;
+  height: 400px;
+  background-color: grey;
+	margin: 0px 0px;
+}
+
+.info-block{
+	display:flex;
+	flex-direction:row;
+	padding: 20px 0px;
+}
+
+.info{
+	padding-left:20px;
+	text-align: left;
+}

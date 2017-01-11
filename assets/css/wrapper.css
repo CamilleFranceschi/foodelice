@@ -1,0 +1,37 @@
+.wrapper {
+	height:100vh;
+	background:url("../img/Black_Seed_Bagels-NYC11152.jpg");
+	background-position: center;
+	position:relative;
+	background-size:cover;
+	text-align: center;
+	color: #fff;
+	padding: 0vh 4vw;
+}
+
+.first-part{
+	padding-top: 0px;
+	padding-bottom: 10vh;
+	min-width:150px;
+	width:15vw;
+	height:auto;
+  /*padding: 0px 30vw;*/
+}
+
+
+.second-part{
+	text-align: center;
+	position:absolute;
+	left:0;
+	right:0;
+	padding-left: inherit;
+	padding-right: inherit;
+	height:30vh;
+	bottom: 80px;
+
+}
+
+h2{
+	font-size: calc(15px + 2.5vw);
+	font-family: 'CamingoDos-Bold',helvetica;
+}
