@@ -1,4 +1,12 @@
-/*slick.css*/
+/*Sized image*/
+
+.image-block{
+    width: 100%;
+    height: auto;
+    /*position: relative;*/
+}
+
+/*slick.css modified*/
 
 .slick-slide
 {
@@ -12,7 +20,7 @@
     min-height: 1px;
 }
 
-/*slick-theme.css*/
+/*slick-theme.css modified*/
 .slick-dots li button:before
 {
     font-family: 'slick';

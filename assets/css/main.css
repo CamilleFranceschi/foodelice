@@ -5,6 +5,7 @@
 /*Components*/
 @import url("wrapper.css");
 @import url("button.css");
+@import url("argument.css");
 @import url("slick/slick-amendments.css");
 @import url("map.css");
 @import url("footer.css");
@@ -43,67 +44,13 @@ h3{
   margin-top: 50px;
 }
 
-.all-blocks{
-	display: flex;
-	flex-direction:row;
-	flex-wrap:wrap;
-	justify-content: space-around;
-	padding-top:50px;
-}
-
-.block{
-	display:flex;
-	flex-direction:column;
-	width:320px;
-	padding-left: 40px;
-	padding-right: 40px;
-	padding-bottom: 80px;
-
-}
-
-.two-rows {
-	display: flex;
-	flex-direction:row;	
-	flex-wrap:wrap;
-	justify-content: space-around;
-	padding-top: 50px;
-	padding-left: 40px;
-	padding-right:40px;
-}
-
-.two-columns {
-	display: flex;
-	flex-direction:column;	
-/*	text-align: center;*/
-	padding: 40px 0px;
-	padding-left: 20px;
-	/*min-width: 100px;*/
-}
-
-.flaticonS1{
-	width:120px;
-	padding-bottom: 20px;
-}
-
 .arg-title{
 	color:#dc221a;
 	font-size: 25px;
 	padding-bottom: 20px;
 }
 
-.image-block{
-	width: 100%;
-	height: auto;
-    /*position: relative;*/
-}
-
-.flaticonS2{
-	width:20px;
-}
-.arg-title2{
-	color:#dc221a;
-	font-size: 25px;
-	padding-bottom: 20px;
+.paddingLR40{
 	padding-left: 40px;
 	padding-right:40px;
 }

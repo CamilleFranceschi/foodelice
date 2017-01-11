@@ -1,18 +1,17 @@
-
 .footer{
-	/*display: flex;*/
-	/*flex-direction:row;*/
-	/*justify-content: space-around;*/
-	/*flex-wrap:wrap;*/
-	/*padding: 40px 60px;*/
+	background-color: #e4e4e4;
 }
 
-.arrow{
-	padding:40px;
+.fa-angle-up{
+	padding-top: 20px;
+	color: #3B444F;
 }
-.logo-arrow{
-	width: auto;
-	height:40px;
+
+.link-network{
+	display:flex;
+	flex-direction:row;
+	justify-content: center;
+	padding-top: 40px;
 }
 
 .logo-FB{
@@ -30,17 +29,9 @@
 .copyright{
 	padding: 20px 0px;
 }
-.link-network{
-	display:flex;
-	flex-direction:row;
-	justify-content: center;
-	padding-top: 40px;
-}
-.logo-arrow:hover{
-	content: url("../img/down-arrow-a.png");}
 
 .logo-FB:hover{
 	content: url("../img/facebook-logo-a.png");}
-	
+
 .logo-TA:hover{
 	content: url("../img/tripadvisor-logotype-a.png");}
