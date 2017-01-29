@@ -1,37 +1,39 @@
-.footer{
+.footer {
 	background-color: #e4e4e4;
 }
 
-.fa-angle-up{
+.fa-angle-up {
 	padding-top: 20px;
 	color: #3B444F;
 }
 
-.link-network{
+.link-network {
 	display:flex;
 	flex-direction:row;
 	justify-content: center;
 	padding-top: 40px;
 }
 
-.logo-FB{
+.logo-FB {
 	width: auto;
 	height:40px;
 	padding: 0px 20px;
 }
 
-.logo-TA{
+.logo-TA {
 	width: auto;
 	height:40px;
 	padding: 0px 20px;
 }
 
-.copyright{
+.copyright {
 	padding: 20px 0px;
 }
 
-.logo-FB:hover{
-	content: url("../img/facebook-logo-a.png");}
+.logo-FB:hover {
+	content: url("../img/facebook-logo-a.png");
+}
 
-.logo-TA:hover{
-	content: url("../img/tripadvisor-logotype-a.png");}
+.logo-TA:hover {
+	content: url("../img/tripadvisor-logotype-a.png");
+}

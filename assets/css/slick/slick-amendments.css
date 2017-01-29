@@ -1,61 +1,57 @@
 /*Sized image*/
 
-.image-block{
+.image-block {
     width: 100%;
     height: auto;
-    /*position: relative;*/
 }
 
 /*slick.css modified*/
 
-.slick-slide
-{
+.slick-slide {
     display: none;
     float: left;
     /*margin added*/
     padding: 0 10px;
     margin:0;
-/*    height: 100%;*/
-		height: auto;
+    /*height: 100%;*/
+	height: auto;
     min-height: 1px;
+    /*outline deleted*/
+    outline:none;
 }
 
+
 /*slick-theme.css modified*/
-.slick-dots li button:before
-{
+
+.slick-dots li button:before {
     font-family: 'slick';
     /*font-size changed*/
     font-size: 20px;
     line-height: 20px;
-
     position: absolute;
     top: 0;
     left: 0;
-
     width: 20px;
     height: 20px;
-
     content: '•';
     text-align: center;
     /*Opacity changed */
     opacity: .50;
     /*Color changed */
     color: #dc221a;
-
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.slick-dots li.slick-active button:before
-{
+
+.slick-dots li.slick-active button:before {
     /*Opacity changed */
     opacity: 1;
     /*Color changed */
     color: #dc221a;
 }
 
-.slick-next
-{
+.slick-next {
     /*right: -25px;*/
-		right: 0px;
+	right: 0px;
     left: auto;
 }

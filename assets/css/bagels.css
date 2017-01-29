@@ -1,16 +1,16 @@
-.all-bagels{
+.all-bagels {
 	display:flex;
 	flex-wrap:wrap;
 	justify-content: space-around;
 	padding:0px 7vw;
 }
 
-.bagel{
+.bagel {
 	width:400px;
 	padding:50px 20px;
 }
 
-.bagel-title{
+.bagel-title {
 	color:#dc221a;
 	font-size: 25px;
 }

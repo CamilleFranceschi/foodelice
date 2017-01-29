@@ -6,47 +6,49 @@
 	text-decoration: none;
 }
 
-.red-button{
+.red-button {
 	color: #dc221a;
 	border:2px solid #dc221a;
 }
 
-.white-button{
+.white-button {
 	color: #fff;
 	border:2px solid #fff;	
 }
 
-.orange-button{
+.orange-button {
 	background-color:rgb(206, 93, 33);
 	color: #fff;
-  /*border:2px solid #fff;*/
 }
 
-.aroundbutton1{
+.aroundbutton1 {
 	padding-top:3vh;
 }
 
-.aroundbutton2{
+.aroundbutton2 {
 	padding-top:80px;
 	padding-bottom: 0px;
 }
 
-.aroundbutton3{
+.aroundbutton3 {
 	padding-top:100px;
 	padding-bottom: 200px;
 }
 
-.aroundbutton4{
+.aroundbutton4 { 
 	padding-top:50px;
 	padding-bottom: 200px;
 }
 
-.white-button:hover{
-	background-color: rgba(216, 216, 216, 0.2);}
+.white-button:hover {
+	background-color: rgba(216, 216, 216, 0.2);
+}
 
-.red-button:hover{
+.red-button:hover {
 	color:#fff;
-	background-color: rgb(220, 34, 26);}
+	background-color: rgb(220, 34, 26);
+}
 
-.orange-button:hover{
-	background-color: rgb(257, 97, 13);}
+.orange-button:hover {
+	background-color: rgb(257, 97, 13);
+}

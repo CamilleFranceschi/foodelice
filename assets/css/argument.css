@@ -1,4 +1,4 @@
-.all-blocks{
+.all-blocks {
 	display: flex;
 	flex-direction:row;
 	flex-wrap:wrap;
@@ -6,17 +6,16 @@
 	padding-top:50px;
 }
 
-.block{
+.block {
 	display:flex;
 	flex-direction:column;
 	width:320px;
 	padding-left: 40px;
 	padding-right: 40px;
 	padding-bottom: 80px;
-
 }
 
-.flaticonS1{
+.flaticonS1 {
 	width:120px;
 	padding-bottom: 20px;
 }

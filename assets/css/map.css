@@ -1,17 +1,17 @@
-#map{
+#map {
 	width: 600px;
   height: 400px;
   background-color: grey;
-	margin: 0px 0px;
+	margin: 0px 5px;
 }
 
-.info-block{
+.info-block {
 	display:flex;
 	flex-direction:row;
-	padding: 20px 0px;
+	padding: 10px 0px;
 }
 
-.info{
+.info {
 	padding-left:20px;
 	text-align: left;
 }
@@ -29,12 +29,9 @@
 .two-columns {
 	display: flex;
 	flex-direction:column;	
-/*	text-align: center;*/
 	padding: 40px 0px;
-	padding-left: 20px;
-	/*min-width: 100px;*/
 }
 
-.flaticonS2{
+.flaticonS2 {
 	width:20px;
 }
